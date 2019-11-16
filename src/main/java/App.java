@@ -6,6 +6,7 @@ import java.util.ArrayList;
 public class App {
     public static void main(String[] args) {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+        System.out.println("...............................");
         System.out.println("I'm a ping-pong application!");
         System.out.println("Enter a number:");
         try {
